@@ -7,7 +7,7 @@ export default function FrameOptions() {
     const [frameText, setFrameText] = useState("SCAN ME");
 
     return (
-        <div className="px-4 bg-white mt-4 rounded-lg shadow-md pb-4 pt-4 mb-[90px]">
+        <div className="px-4 bg-white mt-4 rounded-lg shadow-md pb-4 pt-4 ">
             <h2 className="font-semibold text-lg mb-3">Frame</h2>
 
             {/* Horizontal scroll */}

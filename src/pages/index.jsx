@@ -21,7 +21,7 @@ const Home = () => {
                     Customize QR Code
                 </h2>
 
-                <main className="px-4">
+                <main className="px-4 pb-[80px]">
                     <QRCodePreview />
                     <FrameOptions />
                     <ActionButtons />
