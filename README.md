@@ -39,6 +39,14 @@ The project is based on a Figma design (see `Screenshot_1.png` for reference). T
 
 ## Technical Specifications
 
+## Tech Stack
+
+- **Framework**: Next.js
+- **Styling**: Tailwind CSS
+- **Mobile-First**: Responsive design with Tailwind utilities
+- **Touch Support**: Native touch events and gestures
+
+
 ### Mobile-First Approach
 - Design should be mobile-first with responsive considerations
 - Touch-friendly interface elements
